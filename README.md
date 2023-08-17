@@ -1,16 +1,14 @@
-# welcome_login_singup
+# UI
 
-A new Flutter project.
+Making UI for welcome app using flutter .<br>
+It has three pages : 
+  * Login page
+  * Sign up page
+  * Welcome page<br>
+<br>
 
-## Getting Started
+## Feedback
+Your feedback is always welcome and you can give me advice to improve my skills. <br>
+Contact me : `ghazi.h.othman@gmail.com` 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
